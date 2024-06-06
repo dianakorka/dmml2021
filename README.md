@@ -1,7 +1,7 @@
 # Data Mining and Machine Learning 
 
 
-This repository includes content for the "Data Mining and Machine Learning" class taught in 2021. Professor Dr. MIchalis Vlachos, student assistant Diana Korka.
+This repository includes content for the "Data Mining and Machine Learning" class taught in 2021. Professor Dr. Michalis Vlachos, student assistant Diana Korka.
 
 - Week 1: [Introduction to Python Notebooks and Google Colab](week1)
 - Week 2: [Python and Pandas](week2)
