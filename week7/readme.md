@@ -9,7 +9,7 @@ In this week's lab we are going to cover the following topics:
 - Using ColumnTransformer to apply normalisation only to some columns
 
 ### Walkthrough
-Follow the notebook [Classification_2.ipynb](https://github.com/michalis0/DataMining_and_MachineLearning/blob/master/week7/Classification_2.ipynb).
+Follow the notebook [Classification_2.ipynb](https://github.com/dianakorka/dmml2021/blob/master/week7/Classification_2.ipynb).
 
 ### To do at home
 Check out an easy exercise at the end of the walkthrough notebook.
